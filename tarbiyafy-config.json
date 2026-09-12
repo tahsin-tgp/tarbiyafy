@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "update_url": "https://github.com/tahsin-tgp/tarbiyafy/releases/latest",
+  "config": {
+    "supabase": {
+      "url": "https://qgrhbtwgqgjzawgpeyud.supabase.co",
+      "anon_key": "sb_publishable_KeP_W5-uwQLAus7bjAoW0A_NKzlnCoI"
+    },
+    "cloudinary": {
+      "cloud_name": "dv9b1f4sq",
+      "upload_preset": "madrasa_unsigned"
+    },
+    "features": {
+      "show_update_notice": true,
+      "auto_download_updates": false,
+      "check_interval_hours": 24
+    }
+  },
+  "download_url": "https://github.com/tahsin-tgp/tarbiyafy/releases/download/v{version}/tarbiyafy-setup.exe",
+  "changelog": "Initial release with complete madrasa management system",
+  "release_date": "2025-01-12"
+}
